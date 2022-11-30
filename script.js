@@ -102,8 +102,8 @@ console.log(`summation of their last digits = ${(n % 10) + (m % 10)}`);
 // 5 - Car Y speed
 /*****************/
 /*
-let time = parseInt(prompt("enter time .."));
-console.log(`car Y speed is ${time * 2} km in ${time} minutes`);
+let km = parseInt(prompt("enter time .."));
+console.log(`car Y speed is ${km} km in ${km * 2} minutes`);
 */
 
 
